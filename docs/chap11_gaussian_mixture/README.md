@@ -398,14 +398,12 @@ python GMM.py --n-samples 1000 --n-components 3 --max-iter 100 --n-trials 50 --o
 
 | 文件 | 说明 |
 |---|---|
-| `comparison_benchmark.png` | 初始化方法对比图（箱线图+直方图） |
-| `cluster_comparison.png` | 聚类结果散点图对比 |
-| `convergence_comparison.png` | EM 收敛曲线对比 |
-| `bic_model_selection.png` | BIC/AIC 模型选择曲线 |
-| `anomaly_detection.png` | 异常检测结果可视化 |
-| `iteration_log.csv` | 迭代对数似然日志 |
-| `bic_aic_log.csv` | BIC/AIC 模型选择日志 |
-![Uploading convergence_comparison.png…]()
+| `comparison_benchmark.png` | 初始化方法对比图（箱线图+直方图） ![comparison_benchmark](./img/comparison_benchmark.png) |
+| `cluster_comparison.png` | 聚类结果散点图对比 ![cluster_comparison](./img/cluster_comparison.png) |
+| `convergence_comparison.png` | EM 收敛曲线对比 ![convergence_comparison](./img/convergence_comparison.png) |
+| `bic_model_selection.png` | BIC/AIC 模型选择曲线 ![bic_model_selection](./img/bic_model_selection.png) |
+| `anomaly_detection.png` | 异常检测结果可视化 ![anomaly_detection](./img/anomaly_detection.png) |
+
 
 ### 5.5 实验结果示例
 
