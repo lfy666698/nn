@@ -1,0 +1,23 @@
+site_name: 自动驾驶项目文档
+site_description: 基于SSL与强化学习的自动驾驶仿真项目文档
+site_author: 你的名字
+
+theme:
+  name: readthedocs  # 就是范本里带侧边栏的样式
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+
+nav:
+  - 首页: index.md
+  - 项目文档:
+      - 项目总览: autonomous_driving/README.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - pymdownx.superfences
