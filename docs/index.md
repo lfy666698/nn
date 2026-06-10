@@ -73,6 +73,8 @@ title: 主页
 
 [__交通标识检测__](./traffic_sign_detection/README.md) - 目标检测
 
+[__基于自监督学习与PPO强化学习的自动驾驶仿真项目__](./autonomous_driving/README.md) - 基于CARLA的SSL+RL自动驾驶仿真系统
+
 
 ## 规划 <span id="planning"></span>
 
@@ -105,6 +107,3 @@ title: 主页
 [__CARLA IMU 数据采集平台__](./carla_imu/carla_imu.md) — CARLA惯性测量单元数据采集与可视化驾驶平台开发汇报文档
 
 [__setup_tool模块汇报文档__](./setup_tool/report.md) - setup_tool 模块背景、改进内容、运行方式与效果总结
-
-
-
