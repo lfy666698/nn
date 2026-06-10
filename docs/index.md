@@ -1,6 +1,6 @@
 title: 主页
 
-=======
+
 # [神经网络](https://github.com/OpenHUTB/nn)
 
 欢迎使用神经网络文档，该页面包含所有内容的索引。
